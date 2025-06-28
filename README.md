@@ -46,3 +46,58 @@ By analyzing requirements, teams can identify potential technical or business ri
 
 6. Helps in Decision Making
 Having clear requirements allows for better decision-making throughout the SDLC, from design choices to prioritizing features during development.
+## Key Activities in Requirement Analysis
+Requirement Analysis involves a series of structured steps that help teams gather and refine software requirements. These activities ensure the end product meets user needs and business goals.
+
+1. Requirement Elicitation
+This is the process of collecting requirements from stakeholders such as clients, users, and business analysts. Common techniques include:
+
+Interviews
+
+Surveys and questionnaires
+
+Observation
+
+Brainstorming sessions
+
+Use case analysis
+
+Workshops and focus groups
+
+2. Requirement Analysis and Prioritization
+Once gathered, the requirements are:
+
+Analyzed to identify conflicts, redundancies, and dependencies.
+
+Classified into functional (what the system should do) and non-functional (performance, security, usability, etc.).
+
+Prioritized based on stakeholder needs, value, and feasibility.
+
+3. Requirement Documentation
+The analyzed requirements are formally documented in a clear and structured format, typically in a Software Requirements Specification (SRS) document. This ensures:
+
+Traceability
+
+Consistency
+
+A reference for design, development, and testing teams
+
+4. Requirement Validation
+This step ensures that:
+
+All requirements are complete and accurate
+
+There are no contradictions or ambiguities
+
+The requirements align with business goals
+
+Stakeholders review the documented requirements and provide feedback to confirm or refine them.
+
+5. Requirement Management
+As projects evolve, requirements may change. This activity involves:
+
+Tracking changes
+
+Maintaining version control
+
+Ensuring all team members are aware of updates
