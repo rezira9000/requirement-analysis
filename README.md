@@ -101,3 +101,42 @@ Tracking changes
 Maintaining version control
 
 Ensuring all team members are aware of updates
+## Types of Requirements
+In Requirement Analysis, understanding the different types of requirements helps ensure all aspects of the system are covered. Requirements are generally categorized into two main types:
+
+1. Functional Requirements
+Functional requirements define what the system should do. They specify the behaviors, functions, and features that the software must support. These requirements describe interactions between the system and its users or other systems.
+
+Examples:
+
+User authentication and login
+
+Data processing and calculations
+
+Generating reports
+
+Handling transactions
+
+2. Non-Functional Requirements
+Non-functional requirements describe how the system performs its functions. They focus on qualities and constraints such as performance, security, usability, and reliability. These requirements define the system’s overall characteristics and user experience.
+
+Common non-functional requirements include:
+
+Performance (response time, throughput)
+
+Security (encryption, access control)
+
+Usability (user-friendly interface)
+
+Reliability and availability (uptime, fault tolerance)
+
+Scalability (ability to handle growth)
+
+Maintainability (ease of updates and fixes)
+
+Additional Types (sometimes considered):
+Business Requirements: High-level objectives and goals of the business or organization that the software must support.
+
+User Requirements: Detailed needs of the end-users and their interaction with the system.
+
+System Requirements: Technical details regarding hardware, software platforms, and system integrations.
