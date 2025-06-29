@@ -140,3 +140,4 @@ Business Requirements: High-level objectives and goals of the business or organi
 User Requirements: Detailed needs of the end-users and their interaction with the system.
 
 System Requirements: Technical details regarding hardware, software platforms, and system integrations.
+## Acceptance Criteria
